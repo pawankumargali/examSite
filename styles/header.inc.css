@@ -1,0 +1,33 @@
+#head {
+    /*background-color: #adc6fd;*/
+    background-color: #293A4A;
+    color: #fff;
+    position: relative;
+    padding: 2rem 1rem;
+    margin-left: 0;
+}
+
+
+.col {
+    font-size: 1rem;
+}
+
+
+.col > a {
+    /*background-color: #428BCA;*/
+    background-color: #3175AE;
+    border-color: #3175AE;
+    font-weight: bolder;
+}
+
+#test-heading-row {
+    background-color: #CACACA;
+    margin-left: 0;
+    
+}
+
+#test-heading { 
+    font-size: 1.5rem;
+    font-weight: bolder;
+    margin: 0.8rem auto;
+}

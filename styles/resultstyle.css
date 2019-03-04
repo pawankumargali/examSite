@@ -1,0 +1,44 @@
+:root { 
+    --main-bg-color: #EDEDED;
+    background-color: var(--main-bg-color);
+    
+}
+
+body { background-color: var(--main-bg-color); }
+
+#head {
+    background-color: #adc6fd;
+    position: relative;
+    
+}
+
+.col {
+    font-size: 1rem;
+}
+
+#greet {
+    font-size: 1.8rem;
+    font-weight: bolder;
+}
+
+#tabrow {
+    position: relative;
+    background-color: var(--main-bg-color);
+}
+
+.table {
+    margin: 2rem auto;
+}
+
+.table > tbody > tr > td {
+    font-size: 1rem;
+    font-weight: bolder;
+}
+
+#button-row { background-color: var(--main-bg-color); }
+
+#logout {
+    background-color: #3175AE;
+    font-weight: bolder;
+    margin-left:45%;
+}

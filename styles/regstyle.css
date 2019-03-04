@@ -1,0 +1,60 @@
+:root {
+    --main-bg-color: #293A4A;
+    --main-txt-color: #104E8B;
+    --main-white-color: #EDEDED;
+    background-color: var(--main-bg-color);
+}
+
+
+#cont {
+    background-color: var(--main-bg-color);
+    color: var(--main-txt-color);
+}
+
+/*#heading {*/
+/*    font-size: 2rem;*/
+/*    font-weight: bolder;*/
+/*    margin:2rem auto;*/
+/*    background-color: var(--main-bg-color);*/
+/*    color: var(--main-txt-color);*/
+/*  }*/
+
+  #trademark {
+    font-size: 1.6rem;
+  }
+  
+  
+#center-row { margin: 4rem auto; }
+
+#center-col {
+    margin: auto;
+    padding: 0rem 3rem;
+    background-color: var(--main-white-color);
+    color: var(--main-txt-color);
+    box-shadow: 0.3rem 0.3rem 0.15rem 0.3rem #222;
+}
+
+#reg-title {
+    font-size: 1.5rem;
+}
+
+  #desc {
+    font-size: 1.5rem;
+    font-weight: bold; 
+  }
+  
+  .title {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  #button-div {
+      margin: 2rem, auto;
+  }
+
+  .btn {
+    font-weight: bolder !important;
+    width: 100%;
+    background-color: var(--main-txt-color) !important;
+  }
+ 
