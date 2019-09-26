@@ -1,11 +1,11 @@
 ## MySQL and PHP Online Examination Website 
 
-### No Login Required, users once registered cannot take test again.
+### Register to Take Test(No Login Required), users once registered cannot take test again.
 
 
-#### Note: css for instructions.php and results.php in './styles/resultstyle.php'
+#### Note: css for instructions.php and results.php in './styles/resultstyle.css'
 
-####       css for index.php in './styles/regstyle.php'
+####       css for index.php in './styles/regstyle.css'
 
 #### Database "quizdatabase.sql" contains 4 tables with columns as mentioned
 
